@@ -1,0 +1,11 @@
+[package]
+name = "simple-p2p-network"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = "1.0.203"
+serde_json = "1.0.117"
+serde_derive = "1.0.203"
+crypto-hash = "0.3.3"
+chrono = "0.4"

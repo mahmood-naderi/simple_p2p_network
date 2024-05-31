@@ -1,0 +1,11 @@
+/home/mahmoud/Documents/dev/rust/simple-p2p-network/target/debug/deps/libbitflags-b51413d14b400dee.rmeta: /home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/lib.rs /home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/iter.rs /home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/parser.rs /home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/traits.rs /home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/public.rs /home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/internal.rs /home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/external.rs
+
+/home/mahmoud/Documents/dev/rust/simple-p2p-network/target/debug/deps/bitflags-b51413d14b400dee.d: /home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/lib.rs /home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/iter.rs /home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/parser.rs /home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/traits.rs /home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/public.rs /home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/internal.rs /home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/external.rs
+
+/home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/lib.rs:
+/home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/iter.rs:
+/home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/parser.rs:
+/home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/traits.rs:
+/home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/public.rs:
+/home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/internal.rs:
+/home/mahmoud/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/external.rs:
